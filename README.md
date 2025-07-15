@@ -1,24 +1,87 @@
-<h1 align="center">Hi 👋, I'm Navnit kapadia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Navnit Kapadia</h1>
+<h3 align="center">🚀 Senior Frontend Engineer | React & TypeScript Expert | Design Systems & Micro-Frontends Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9nitk&label=Profile%20views&color=0e75b6&style=flat" alt="9nitk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9nitk" alt="9nitk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nk_frontenddev" target="blank"><img src="https://img.shields.io/twitter/follow/nk_frontenddev?logo=twitter&style=for-the-badge" alt="nk_frontenddev" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nk_frontenddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nk_frontenddev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/](https://www.linkedin.com/in/navnit-kapadia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navnit-kapadia/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/navnitkapadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="navnitkapadia" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=9nitk&label=Profile%20views&color=0e75b6&style=flat" alt="9nitk" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9nitk&show_icons=true&locale=en&layout=compact" alt="9nitk" /></p>
+🔭 **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9nitk&show_icons=true&locale=en" alt="9nitk" /></p>
+I'm a Senior Frontend Engineer with **8+ years of experience** crafting scalable, performant, and accessible web applications. I specialize in:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9nitk&" alt="9nitk" /></p>
+- 🛠 **React, Next.js & TypeScript:** Architecting modern SPAs & SSR platforms  
+- ⚡ **Design Systems & Component Libraries:** Led initiatives that reduced bug rates by 73% & feature delivery time by 40%  
+- 🏗 **Micro-Frontends:** Migrated monoliths enabling 5+ teams to deploy independently  
+- 🧪 **Testing & Quality:** Achieved up to 93% test coverage preventing critical incidents  
+- 👥 **Mentorship:** Guided 6 engineers, all promoted or expanded responsibilities within 12 months  
+- ♿ **Accessibility Champion:** Ensured WCAG 2.1 AA compliance across design systems  
+
+---
+
+🚀 **Recent Highlights**
+
+✅ Implemented a company-wide design system serving **20+ engineers** at IntelligenceBank  
+✅ Optimized build pipeline reducing deployment time from **45 → 12 minutes**  
+✅ Fixed DailyWire’s live chat crash during **11,000+ concurrent users**  
+✅ Delivered interactive dashboards & data viz increasing engagement by **25%**
+
+---
+
+💼 **Work Experience**
+
+- **Senior Frontend Engineer @ IntelligenceBank (2022 - Present)**  
+  - Led micro-frontend migration & SSR strategy with Next.js  
+  - Established performance budgets, reduced page load by **35%**  
+  - Championed accessibility & code quality across 5 product teams
+
+- **Senior Frontend Developer @ Insight Timer (2020 - 2022)**  
+  - Built Teacher Dashboard for **5,000+ meditation teachers globally**  
+  - Modernized codebase to TypeScript improving velocity by **30%**
+
+- **Frontend Engineer @ Logicwind (2019 - 2020)**  
+  - Rescued failing live events platform for Ben Shapiro’s **11k+ users**
+
+- **Frontend Developer @ Dreamworld (2016 - 2019)**  
+  - Developed reusable web components adopted across **10+ projects**
+
+---
+
+🚀 **Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=9nitk&show_icons=true&theme=radical" alt="Navnit's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9nitk&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9nitk&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+📫 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/navnit-kapadia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/nk_frontenddev"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://codesandbox.io/u/navnitkapadia"><img src="https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **Fun Fact:**  
+I love transforming complex Figma designs into beautiful, performant, accessible web applications.  
+If you’d like to collaborate or geek out on micro-frontend architecture — **drop me a message!**
